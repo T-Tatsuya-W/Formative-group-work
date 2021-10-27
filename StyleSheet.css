@@ -1,0 +1,25 @@
+body {
+    background-color: lightGrey;
+    font-family: Courier New;
+  }
+  
+  h1 {
+    color: black;
+    border:2px solid DodgerBlue;
+    text-align: center;
+    background-color: lightBlue;
+    font-family: Courier New;
+  }
+  
+  p {
+    font-family: Courier New;
+    font-size: 18px;
+  }
+  
+  h2 {
+     text-decoration: underline;
+     color: black;
+     font-family: Courier New;
+     font-size: 20px;
+     }
+  
