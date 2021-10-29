@@ -1,8 +1,9 @@
 body {
-    background-color: grey;
+    background-color: #b9b5b5;
     font-family:'Montserrat', sans-serif;
   }
 
+<<<<<<< HEAD
   .navbar-default {
     background-color: grey;
 
@@ -12,6 +13,9 @@ body {
     background-color: magenta;
   }
 
+=======
+  
+>>>>>>> efca8efcf74140fda652cf864c037b811ed34e1c
   section{
     color: blue;
     border:2px solid rgb(14, 14, 75);
@@ -28,6 +32,8 @@ body {
     width: 50%;
 
   }
+
+  
   
   h1 {
     color: black;
