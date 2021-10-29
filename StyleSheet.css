@@ -1,8 +1,9 @@
 body {
-    background-color: grey;
+    background-color: #b9b5b5;
     font-family:'Montserrat', sans-serif;
   }
 
+  
   section{
     color: blue;
     border:2px solid rgb(14, 14, 75);
@@ -19,6 +20,8 @@ body {
     width: 50%;
 
   }
+
+  
   
   h1 {
     color: black;
