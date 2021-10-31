@@ -3,22 +3,21 @@ body {
     font-family:'Montserrat', sans-serif;
   }
 
-<<<<<<< HEAD
   .red .active a,
   .red .active a:hover {
       background-color: red;
   }
 
-  $theme-colors: (
+  /* !! Not sure what this is but i had to comment it out because it doesn't work and won't open my html properly */
+  /*$theme-colors: (
   "primary": #0074d9,
-  "danger": #ff4136
-);
+  "danger": #ff4136*/
+
 
   .navbar-default {
     background-color: grey;
+  }
 
-=======
->>>>>>> 11326438b60d472cfe71faa9cbdeae21ecd3ce1a
 
 
   section{
@@ -31,12 +30,16 @@ body {
     font-size: 25px;
   }
 
-  img{
+  img{ /* Not actually sure this does anything, but the .centre thing does */
     display:block;
     margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    margin-right: auto; 
+  }
 
+  .centred {
+    display: block;
+    margin-right: auto; /*This should make images centred as long as you ass class = "centred"*/
+    margin-left: auto;
   }
 
 
