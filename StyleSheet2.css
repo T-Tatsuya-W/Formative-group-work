@@ -1,0 +1,81 @@
+body {
+  background-color: #337ab7;
+}
+
+#container {
+  background-color: #f0e5da;
+  
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@keyframes title {
+  0% {color: #746475;}
+  25% {color: #337ab7; }
+  50% {color: #a6c9eb;}
+  75% {color: #f8b678;}
+  100% {color: #746475;}
+}
+
+.page-header {
+  color: #746475;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  animation-name: title;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+}
+
+.nav-pills {
+  background-color: #a6c9eb;
+  font-size: 20px;
+}
+ 
+#title {
+  color: #453c46;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 20px;
+  padding-top: 14px;
+  padding-bottom: 20px;
+  border: 7px ridge transparent;
+}
+
+#title:hover {
+  border: 7px ridge #337ab7;
+}
+
+#content {
+  color: #746475;
+  font-family: 'Montserrat', sans-serif;
+  padding: 30px;
+  padding-top: 5px;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  width: 940px;
+  height: auto;
+}
+
+#author {
+  background-color: #a6c9eb;
+  color: #453c46;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: right;
+  
+}
+
+#author p{
+  line-height: 0.5;
+}
+#author ul{
+  list-style-type: none;
+}
