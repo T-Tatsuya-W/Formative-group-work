@@ -39,7 +39,8 @@
 ## v. Evidence of collaboration
 - Limited use of branches to isolate people's working environments - no PR/Issue use at all
 - GitHub Projects tab used to some effect to organise work to do
-- Commit messages are questionable at best "yum", "yes", "asdf"
+- Commit messages are questionable at best "yum", "yes", "asdf" - they do not use imperative styling
+  e.g. `💬 Add detail to page`, `💄 Change styling of navbar`. Use emoji for added flair!
 - Really steady flow of commits throughout the project's time from all contributors
 - No real last minute rush - everything was completed in good time 👍
 - Author information at bottom of all pages
